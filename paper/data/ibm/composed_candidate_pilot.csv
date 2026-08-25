@@ -1,0 +1,2 @@
+execution,backend,job_id,shots,counts_json,success_count,success_probability,wilson_95_low,wilson_95_high,qpu_seconds,completed_at,status,expected
+Pilot,ibm_fez,d9o7s1fa5u8s73e2csjg,128,"{""000"": 108, ""001"": 5, ""010"": 5, ""100"": 4, ""110"": 5, ""111"": 1}",108,0.84375,0.7709518905710295,0.8965164519909334,2,2026-08-03T11:39:59.211677Z,DONE,000

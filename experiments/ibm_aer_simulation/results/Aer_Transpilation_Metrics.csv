@@ -1,0 +1,14 @@
+group,circuit,qubits,depth,size
+Modular_Circuits,Bell_Pair,2,2,2
+Modular_Circuits,Three_Bell_Pairs,6,2,6
+Modular_Circuits,Teleportation,3,6,7
+Modular_Circuits,Three_Teleportation_Rounds,7,12,19
+Modular_Circuits,Strengthened_QOTP_Roundtrip,1,1,1
+Modular_Circuits,Encrypted_Bell_Record,2,1,2
+Modular_Circuits,Swap_Test_Verification,3,4,5
+Modular_Circuits,Stage_S2,3,6,7
+Modular_Circuits,Stage_S3_Record,2,1,2
+Modular_Circuits,Stage_S5_QOTP,1,1,1
+Modular_Circuits,Stage_S6,3,6,7
+Complete_Circuits,Composed_Full_Candidate,9,22,29
+Complete_Circuits,Optimized_Staged_Candidate,7,26,38

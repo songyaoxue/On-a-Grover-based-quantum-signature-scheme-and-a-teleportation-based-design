@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-08-06T19:34:53.036315+00:00",
+  "python": "3.12.5",
+  "qiskit": "2.0.0",
+  "qiskit_aer": "0.17.0",
+  "numpy": "2.1.1",
+  "matplotlib": "3.10.1",
+  "shots": {
+    "swap_and_binomial_trials": 20000,
+    "protocol_trials_per_condition": 2000
+  },
+  "seeds": {
+    "numerical": 20260803,
+    "aer_transpiler": 20260803
+  },
+  "parameters": {
+    "protocol_lambda": 8,
+    "resource_lambda": 8,
+    "fidelity_gap_target_error": 1e-06
+  },
+  "file_sha256": {
+    "01_Figure_Code/Numerical_Simulation_Results/Numerical_Simulation_Full_Pipeline.py": "1f5cd6d95b2084d6bdeb09c76c8a0e280ec8e713bb9ee5ca9351f98eb6f6d936",
+    "01_Figure_Code/IBM_Hardware_Results/ibm_hardware_result_figure_code.py": "edf5f37736f33e0cac6449270940eb00abf315debf945faa5cfbe966ba1450e5",
+    "02_Circuit_Diagrams/02_Aer/Aer_Circuit_Code.py": "24d554e3ea254f95536211b98a4dfbc21cb7330a1f3f63150dc526970b7c6d98"
+  },
+  "ibm_hardware_rerun": false,
+  "ibm_figure_source": "preserved local CSV counts"
+}

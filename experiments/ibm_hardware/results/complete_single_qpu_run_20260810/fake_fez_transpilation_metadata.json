@@ -1,0 +1,25 @@
+{
+  "target_snapshot": "FakeFez",
+  "target_qubits": 156,
+  "logical_qubits": 23,
+  "logical_clbits": 15,
+  "logical_depth": 34,
+  "logical_size": 81,
+  "isa_qubits": 156,
+  "isa_depth": 268,
+  "isa_size": 575,
+  "isa_ops": {
+    "sx": 261,
+    "rz": 156,
+    "cz": 133,
+    "measure": 15,
+    "barrier": 12,
+    "x": 10
+  },
+  "isa_two_qubit_gates": 133,
+  "logical_qasm_sha256": "ae8423a724bf52e56426e926bc86fa14a276cd177c0468fd2a3ce620c415599b",
+  "isa_qasm_sha256": "3fb7d45d0e047ba099df896d36c6b881e702122df93fda6231e72229af37e5d7",
+  "seed_transpiler": 20260810,
+  "optimization_level": 2,
+  "submission_status": "not_submitted_missing_callable_account"
+}

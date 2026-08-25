@@ -1,0 +1,21 @@
+n,alpha,beta,trials,success_count,monte_carlo_probability,exact_binomial_probability,chernoff_upper_bound,model
+10,0.05,0.06,20000,567,0.02835,0.02824752489999998,0.1643999779287187,abstract phenomenological binomial model; not a protocol security proof
+20,0.05,0.06,20000,147,0.00735,0.007637259774199997,0.027027352742963192,abstract phenomenological binomial model; not a protocol security proof
+30,0.05,0.06,20000,7,0.00035,0.00031233085831387786,0.0044432961944148456,abstract phenomenological binomial model; not a protocol security proof
+40,0.05,0.06,20000,2,0.0001,0.00010276544237352935,0.00073047779629256,abstract phenomenological binomial model; not a protocol security proof
+50,0.05,0.06,20000,0,0.0,3.2197662734939e-05,0.00012009053358791589,abstract phenomenological binomial model; not a protocol security proof
+60,0.05,0.06,20000,0,0.0,1.547190204118945e-06,1.974288107130145e-05,abstract phenomenological binomial model; not a protocol security proof
+70,0.05,0.06,20000,0,0.0,5.125355808094912e-07,3.2457292123712746e-06,abstract phenomenological binomial model; not a protocol security proof
+80,0.05,0.06,20000,0,0.0,2.449976134447312e-08,5.335978108764348e-07,abstract phenomenological binomial model; not a protocol security proof
+90,0.05,0.06,20000,0,0.0,8.377794974568563e-09,8.772346833089861e-08,abstract phenomenological binomial model; not a protocol security proof
+100,0.05,0.06,20000,0,0.0,2.7884180388493965e-09,1.4421736257430353e-08,abstract phenomenological binomial model; not a protocol security proof
+110,0.05,0.06,20000,0,0.0,1.393717773526716e-10,2.3709331224153554e-09,abstract phenomenological binomial model; not a protocol security proof
+120,0.05,0.06,20000,0,0.0,4.740140875344539e-11,3.8978135299555305e-10,abstract phenomenological binomial model; not a protocol security proof
+130,0.05,0.06,20000,0,0.0,2.3477254974858e-12,6.408004582949489e-11,abstract phenomenological binomial model; not a protocol security proof
+140,0.05,0.06,20000,0,0.0,8.113234404925008e-13,1.0534758120040257e-11,abstract phenomenological binomial model; not a protocol security proof
+150,0.05,0.06,20000,0,0.0,2.7526923191729783e-13,1.7319140024190042e-12,abstract phenomenological binomial model; not a protocol security proof
+160,0.05,0.06,20000,0,0.0,1.3965048894076804e-14,2.8472662377212355e-13,abstract phenomenological binomial model; not a protocol security proof
+170,0.05,0.06,20000,0,0.0,4.7995150497145606e-15,4.680905066385576e-14,abstract phenomenological binomial model; not a protocol security proof
+180,0.05,0.06,20000,0,0.0,2.415030703517163e-16,7.695406896002173e-15,abstract phenomenological binomial model; not a protocol security proof
+190,0.05,0.06,20000,0,0.0,8.387299245222455e-17,1.2651247238552639e-15,abstract phenomenological binomial model; not a protocol security proof
+200,0.05,0.06,20000,0,0.0,2.8726600567848823e-17,2.0798647667888126e-16,abstract phenomenological binomial model; not a protocol security proof

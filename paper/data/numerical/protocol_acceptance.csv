@@ -1,0 +1,13 @@
+attack,attack_scope,models_general_cptp_attack,noise_parameter,noise_model,lambda,trials,seed,final_accept_count,final_accept_rate,trent_accept_rate,bob_accept_rate,mean_s5_fidelity,mean_s7_fidelity
+none,targeted,False,0.0,rho'=(1-p)rho+pI/2,8,2000,20260803,2000,1.0,1.0,1.0,1.0000000000000002,1.0000000000000002
+none,targeted,False,0.02,rho'=(1-p)rho+pI/2,8,2000,20260803,1860,0.93,0.963,0.966,1.0000000000000002,1.0000000000000002
+none,targeted,False,0.05,rho'=(1-p)rho+pI/2,8,2000,20260803,1643,0.8215,0.909,0.9045,1.0000000000000002,1.0000000000000002
+alice_consistent_record_manipulation,targeted,False,0.0,rho'=(1-p)rho+pI/2,8,2000,20260803,2000,1.0,1.0,1.0,1.0000000000000002,1.0000000000000002
+alice_consistent_record_manipulation,targeted,False,0.02,rho'=(1-p)rho+pI/2,8,2000,20260803,1860,0.93,0.963,0.966,1.0000000000000002,1.0000000000000002
+alice_consistent_record_manipulation,targeted,False,0.05,rho'=(1-p)rho+pI/2,8,2000,20260803,1643,0.8215,0.909,0.9045,1.0000000000000002,1.0000000000000002
+tamper_p2,targeted,False,0.0,rho'=(1-p)rho+pI/2,8,2000,20260803,7,0.0035,1.0,0.0035,1.0000000000000002,1.8202353171583768e-33
+tamper_p2,targeted,False,0.02,rho'=(1-p)rho+pI/2,8,2000,20260803,7,0.0035,0.963,0.0035,1.0000000000000002,1.8202353171583768e-33
+tamper_p2,targeted,False,0.05,rho'=(1-p)rho+pI/2,8,2000,20260803,13,0.0065,0.909,0.0075,1.0000000000000002,1.8202353171583768e-33
+fixed_state_ciphertext_replacement,targeted,False,0.0,rho'=(1-p)rho+pI/2,8,2000,20260803,26,0.013,0.013,1.0,0.16666666666666682,1.0000000000000002
+fixed_state_ciphertext_replacement,targeted,False,0.02,rho'=(1-p)rho+pI/2,8,2000,20260803,22,0.011,0.011,0.966,0.16666666666666682,1.0000000000000002
+fixed_state_ciphertext_replacement,targeted,False,0.05,rho'=(1-p)rho+pI/2,8,2000,20260803,26,0.013,0.014,0.9045,0.16666666666666682,1.0000000000000002

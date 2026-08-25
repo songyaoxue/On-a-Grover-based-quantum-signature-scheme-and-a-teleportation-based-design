@@ -1,0 +1,5 @@
+attack_name,attack_scope,attack_class,changes_message_state,changes_classical_record,models_general_cptp_attack,security_interpretation
+alice_consistent_record_manipulation,targeted,insider consistent misreport,True,True,False,negative result: consistency-only checks may be indistinguishable from honest execution
+tamper_p2,targeted,plaintext Pauli modification,True,False,False,benchmark only
+fixed_state_ciphertext_replacement,targeted,fixed-state ciphertext replacement,True,False,False,benchmark only
+cross_stage_record_substitution,targeted,cross-stage record substitution,False,True,False,not a complete replay-security experiment

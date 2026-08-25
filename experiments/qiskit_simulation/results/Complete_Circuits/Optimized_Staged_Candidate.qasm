@@ -1,0 +1,58 @@
+OPENQASM 3.0;
+include "stdgates.inc";
+gate unitary _gate_q_0 {
+  U(1.9106332362490186, 3*pi/4, -7*pi/4) _gate_q_0;
+}
+gate unitary_0 _gate_q_0 {
+  U(1.9106332362490186, 3*pi/4, pi/4) _gate_q_0;
+}
+bit[3] out;
+qubit[7] opt;
+barrier opt[0], opt[1], opt[2], opt[3], opt[4], opt[5], opt[6];
+h opt[3];
+cx opt[3], opt[4];
+barrier opt[0], opt[1], opt[2], opt[3], opt[4], opt[5], opt[6];
+cx opt[0], opt[3];
+h opt[0];
+cx opt[3], opt[4];
+cz opt[0], opt[4];
+swap opt[0], opt[4];
+reset opt[3];
+reset opt[4];
+x opt[6];
+unitary opt[6];
+unitary_0 opt[6];
+x opt[6];
+h opt[3];
+cx opt[3], opt[4];
+barrier opt[0], opt[1], opt[2], opt[3], opt[4], opt[5], opt[6];
+cx opt[0], opt[3];
+h opt[0];
+cx opt[3], opt[4];
+cz opt[0], opt[4];
+swap opt[0], opt[4];
+reset opt[3];
+reset opt[4];
+reset opt[5];
+barrier opt[0], opt[1], opt[2], opt[3], opt[4], opt[5], opt[6];
+h opt[5];
+cswap opt[5], opt[0], opt[2];
+h opt[5];
+h opt[3];
+cx opt[3], opt[4];
+barrier opt[0], opt[1], opt[2], opt[3], opt[4], opt[5], opt[6];
+cx opt[0], opt[3];
+h opt[0];
+cx opt[3], opt[4];
+cz opt[0], opt[4];
+swap opt[0], opt[4];
+reset opt[3];
+reset opt[4];
+reset opt[4];
+barrier opt[0], opt[1], opt[2], opt[3], opt[4], opt[5], opt[6];
+h opt[4];
+cswap opt[4], opt[0], opt[1];
+h opt[4];
+out[0] = measure opt[5];
+out[1] = measure opt[4];
+out[2] = measure opt[0];

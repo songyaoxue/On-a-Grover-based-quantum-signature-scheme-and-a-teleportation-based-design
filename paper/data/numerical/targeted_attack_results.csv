@@ -1,0 +1,12 @@
+attack,attack_scope,models_general_cptp_attack,trent_accept,bob_accept,final_accept
+none,targeted,False,True,True,True
+tamper_X1_bell_record,targeted,False,False,True,False
+tamper_X1_encrypted_record,targeted,False,False,False,False
+tamper_X2_bell_record,targeted,False,False,True,False
+tamper_X2_encrypted_record,targeted,False,False,False,False
+tamper_X3_bell_record,targeted,False,True,False,False
+tamper_X3_encrypted_record,targeted,False,True,False,False
+tamper_p2,targeted,False,True,False,False
+tamper_p3,targeted,False,False,True,False
+cross_stage_record_substitution,targeted,False,False,False,False
+fixed_state_ciphertext_replacement,targeted,False,False,True,False
