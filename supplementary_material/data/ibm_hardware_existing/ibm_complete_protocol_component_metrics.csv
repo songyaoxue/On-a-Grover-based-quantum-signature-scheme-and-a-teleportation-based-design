@@ -1,0 +1,7 @@
+metric,pass_count,shots,probability
+both_swap_tests_zero,596,1024,0.58203125
+message_readout_zero,702,1024,0.685546875
+X1_duplicate_records_match,678,1024,0.662109375
+X2_duplicate_records_match,779,1024,0.7607421875
+X3_duplicate_records_match,750,1024,0.732421875
+complete_core_joint_acceptance,170,1024,0.166015625

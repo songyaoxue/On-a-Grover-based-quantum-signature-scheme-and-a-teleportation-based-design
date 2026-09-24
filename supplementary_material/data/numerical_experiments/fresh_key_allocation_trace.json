@@ -1,0 +1,363 @@
+{
+  "seed": 20266155,
+  "lambda_parameter": 4,
+  "raw_key_bits_included": false,
+  "blocks": [
+    {
+      "block_id": "key-00001",
+      "purpose": "p3_key",
+      "copy_id": "p3[0]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00002",
+      "purpose": "p3_key",
+      "copy_id": "p3[1]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00003",
+      "purpose": "p3_key",
+      "copy_id": "p3[2]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00004",
+      "purpose": "p3_key",
+      "copy_id": "p3[3]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00005",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[0]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00006",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[0]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00007",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[0]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00008",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[0]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00009",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[1]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00010",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[1]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00011",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[1]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00012",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[1]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00013",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[2]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00014",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[2]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00015",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[2]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00016",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[2]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00017",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[3]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00018",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[3]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00019",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[3]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00020",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[3]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00021",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[4]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00022",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[4]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00023",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[4]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00024",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[4]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00025",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[5]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00026",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[5]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00027",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[5]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00028",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[5]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00029",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[6]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00030",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[6]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00031",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[6]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00032",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[6]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00033",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[7]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00034",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[7]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00035",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[7]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00036",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[7]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00037",
+      "purpose": "s3_bell_key",
+      "copy_id": "p1[8]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00038",
+      "purpose": "x1_record_key",
+      "copy_id": "p1[8]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00039",
+      "purpose": "s4_bell_key",
+      "copy_id": "p1[8]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00040",
+      "purpose": "x2_record_key",
+      "copy_id": "p1[8]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00041",
+      "purpose": "s6_bell_key",
+      "copy_id": "returned_p1[0]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00042",
+      "purpose": "x3_record_key",
+      "copy_id": "returned_p1[0]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00043",
+      "purpose": "s6_bell_key",
+      "copy_id": "returned_p1[1]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00044",
+      "purpose": "x3_record_key",
+      "copy_id": "returned_p1[1]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00045",
+      "purpose": "s6_bell_key",
+      "copy_id": "returned_p1[2]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00046",
+      "purpose": "x3_record_key",
+      "copy_id": "returned_p1[2]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00047",
+      "purpose": "s6_bell_key",
+      "copy_id": "returned_p1[3]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00048",
+      "purpose": "x3_record_key",
+      "copy_id": "returned_p1[3]",
+      "bit_length": 8,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00049",
+      "purpose": "s6_bell_key",
+      "copy_id": "returned_p1[4]",
+      "bit_length": 4,
+      "consumption_count": 1
+    },
+    {
+      "block_id": "key-00050",
+      "purpose": "x3_record_key",
+      "copy_id": "returned_p1[4]",
+      "bit_length": 8,
+      "consumption_count": 1
+    }
+  ],
+  "checks": {
+    "each_encrypted_object_has_one_block_id": true,
+    "block_ids_unique": true,
+    "each_block_consumed_once": true,
+    "raw_bitstrings_required_unique": false
+  }
+}

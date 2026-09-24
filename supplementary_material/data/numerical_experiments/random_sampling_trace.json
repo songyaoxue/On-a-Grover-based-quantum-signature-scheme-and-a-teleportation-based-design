@@ -1,0 +1,130 @@
+{
+  "seed": 20265145,
+  "lambda_parameter": 4,
+  "all_p1_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "s5_test_indices": [
+    2,
+    3,
+    7,
+    8
+  ],
+  "s5_remaining_indices": [
+    0,
+    1,
+    4,
+    5,
+    6
+  ],
+  "s7_test_indices": [
+    0,
+    1,
+    4,
+    5
+  ],
+  "retained_p1_index": 6,
+  "s5_comparisons": [
+    {
+      "stage": "S5",
+      "p1_index": 2,
+      "reference_index": 0,
+      "ideal_fidelity": 1.0,
+      "effective_fidelity": 1.0,
+      "accept_probability": 1.0,
+      "sampled_outcome_accept": true,
+      "records_ok": true
+    },
+    {
+      "stage": "S5",
+      "p1_index": 3,
+      "reference_index": 1,
+      "ideal_fidelity": 1.0,
+      "effective_fidelity": 1.0,
+      "accept_probability": 1.0,
+      "sampled_outcome_accept": true,
+      "records_ok": true
+    },
+    {
+      "stage": "S5",
+      "p1_index": 7,
+      "reference_index": 2,
+      "ideal_fidelity": 1.0,
+      "effective_fidelity": 1.0,
+      "accept_probability": 1.0,
+      "sampled_outcome_accept": true,
+      "records_ok": true
+    },
+    {
+      "stage": "S5",
+      "p1_index": 8,
+      "reference_index": 3,
+      "ideal_fidelity": 1.0,
+      "effective_fidelity": 1.0,
+      "accept_probability": 1.0,
+      "sampled_outcome_accept": true,
+      "records_ok": true
+    }
+  ],
+  "s7_comparisons": [
+    {
+      "stage": "S7",
+      "p1_index": 0,
+      "reference_index": 0,
+      "ideal_fidelity": 1.0,
+      "effective_fidelity": 1.0,
+      "accept_probability": 1.0,
+      "sampled_outcome_accept": true,
+      "records_ok": true
+    },
+    {
+      "stage": "S7",
+      "p1_index": 1,
+      "reference_index": 1,
+      "ideal_fidelity": 1.0,
+      "effective_fidelity": 1.0,
+      "accept_probability": 1.0,
+      "sampled_outcome_accept": true,
+      "records_ok": true
+    },
+    {
+      "stage": "S7",
+      "p1_index": 4,
+      "reference_index": 2,
+      "ideal_fidelity": 1.0,
+      "effective_fidelity": 1.0,
+      "accept_probability": 1.0,
+      "sampled_outcome_accept": true,
+      "records_ok": true
+    },
+    {
+      "stage": "S7",
+      "p1_index": 5,
+      "reference_index": 3,
+      "ideal_fidelity": 1.0,
+      "effective_fidelity": 1.0,
+      "accept_probability": 1.0,
+      "sampled_outcome_accept": true,
+      "records_ok": true
+    }
+  ],
+  "checks": {
+    "s5_no_replacement": true,
+    "s5_no_overlap": true,
+    "s5_correct_cardinalities": true,
+    "s5_partition_complete": true,
+    "s7_no_replacement": true,
+    "s7_correct_cardinality": true,
+    "one_retained_copy": true,
+    "same_seed_deterministic": true,
+    "inputs_committed_before_sampling": true
+  }
+}

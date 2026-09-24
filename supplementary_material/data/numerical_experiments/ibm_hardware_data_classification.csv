@@ -1,0 +1,41 @@
+source_file,execution,case,reported_repetition,DIRECT_HARDWARE,DERIVED_FROM_SINGLE_TEST,job_id,shots,classification_reason
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,identical_0_0,1,YES,NO,d9o612jvt76s73cplumg,128,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,identical_0_0,2,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,identical_0_0,4,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,identical_0_0,8,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,identical_plus_plus,1,YES,NO,d9o612jvt76s73cplumg,128,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,identical_plus_plus,2,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,identical_plus_plus,4,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,identical_plus_plus,8,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,orthogonal_0_1,1,YES,NO,d9o612jvt76s73cplumg,128,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,orthogonal_0_1,2,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,orthogonal_0_1,4,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,orthogonal_0_1,8,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,orthogonal_plus_minus,1,YES,NO,d9o612jvt76s73cplumg,128,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,orthogonal_plus_minus,2,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,orthogonal_plus_minus,4,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,orthogonal_plus_minus,8,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,fixed_overlap_F_0.25,1,YES,NO,d9o612jvt76s73cplumg,128,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,fixed_overlap_F_0.25,2,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,fixed_overlap_F_0.25,4,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Pilot,fixed_overlap_F_0.25,8,NO,YES,d9o612jvt76s73cplumg,128,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,identical_0_0,1,YES,NO,d9o655m44aac73f4s91g,1024,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,identical_0_0,2,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,identical_0_0,4,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,identical_0_0,8,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,identical_plus_plus,1,YES,NO,d9o655m44aac73f4s91g,1024,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,identical_plus_plus,2,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,identical_plus_plus,4,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,identical_plus_plus,8,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,orthogonal_0_1,1,YES,NO,d9o655m44aac73f4s91g,1024,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,orthogonal_0_1,2,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,orthogonal_0_1,4,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,orthogonal_0_1,8,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,orthogonal_plus_minus,1,YES,NO,d9o655m44aac73f4s91g,1024,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,orthogonal_plus_minus,2,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,orthogonal_plus_minus,4,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,orthogonal_plus_minus,8,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,fixed_overlap_F_0.25,1,YES,NO,d9o655m44aac73f4s91g,1024,raw single-test estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,fixed_overlap_F_0.25,2,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,fixed_overlap_F_0.25,4,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate
+data/ibm_hardware_existing/swap_test_hardware.csv,Final,fixed_overlap_F_0.25,8,NO,YES,d9o655m44aac73f4s91g,1024,analytical composition from the same m=1 hardware estimate

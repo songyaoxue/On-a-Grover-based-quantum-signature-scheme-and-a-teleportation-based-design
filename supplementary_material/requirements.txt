@@ -1,0 +1,9 @@
+numpy>=2.0,<3
+pandas>=2.2,<4
+matplotlib>=3.9,<4
+qiskit>=2.0,<3
+qiskit-qasm3-import>=0.5,<1
+qiskit-aer>=0.17,<1
+qiskit-ibm-runtime>=0.40,<1
+pylatexenc>=2.10,<3
+pytest>=8,<10

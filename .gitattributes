@@ -1,0 +1,3 @@
+# Preserve the exact published author-source and supplementary data bytes.
+paper/current/** -text
+supplementary_material/** -text

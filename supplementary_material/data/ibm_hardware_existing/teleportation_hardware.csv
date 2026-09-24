@@ -1,0 +1,5 @@
+index,experiment,input_state,key,expected,backend,job_id,shots,counts_json,correct_output_probability,completed_at
+0,teleportation,0,,0,ibm_fez,d9mt9g6h4e6s738vlca0,512,"{""0"": 493, ""1"": 19}",0.962890625,2026-08-01T11:13:16.703253+00:00
+1,teleportation,1,,1,ibm_fez,d9mt9g6h4e6s738vlca0,512,"{""0"": 15, ""1"": 497}",0.970703125,2026-08-01T11:13:16.703253+00:00
+2,teleportation,+,,0,ibm_fez,d9mt9g6h4e6s738vlca0,512,"{""0"": 483, ""1"": 29}",0.943359375,2026-08-01T11:13:16.703253+00:00
+3,teleportation,-,,1,ibm_fez,d9mt9g6h4e6s738vlca0,512,"{""0"": 27, ""1"": 485}",0.947265625,2026-08-01T11:13:16.703253+00:00

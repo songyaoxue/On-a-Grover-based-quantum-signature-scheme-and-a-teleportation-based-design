@@ -1,0 +1,17 @@
+{
+  "execution_timestamp_utc": "2026-09-07T11:50:11.064812+00:00",
+  "python_version": "3.12.5 (v3.12.5:ff3bc82f7c9, Aug  7 2024, 05:32:06) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "qiskit_version": "2.0.0",
+  "qiskit_aer_version": "0.17.0",
+  "numpy_version": "2.1.1",
+  "pandas_version": "3.0.2",
+  "matplotlib_version": "3.10.1",
+  "seed": 20260903,
+  "swap_trials_per_point": 50000,
+  "protocol_trials_per_point": 4000,
+  "aer_shots_per_point": 16384,
+  "platform": "macOS-15.6.1-arm64-arm-64bit",
+  "machine": "arm64",
+  "maximum_swap_monte_carlo_absolute_error": 0.005206668651765278,
+  "ibm_submission_attempted": false
+}

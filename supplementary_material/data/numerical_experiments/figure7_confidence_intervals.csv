@@ -1,0 +1,3 @@
+execution,success_count,shots,probability,wilson_95_low_recomputed,wilson_95_high_recomputed
+Pilot,108,128,0.84375,0.7709518905710295,0.8965164519909334
+Final,773,1024,0.7548828125,0.7276156332914191,0.7802447916022438
